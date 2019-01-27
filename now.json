@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "name": "nodejs-express",
+  "name": "test-nodejs-actions",
   "builds": [
       { "src": "server.js", "use": "@now/node-server" }
   ],
