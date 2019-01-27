@@ -1,0 +1,11 @@
+{
+  "name": "hello-world-githubactions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-prom-bundle": "^5.0.2",
+    "prom-client": "^11.2.1"
+  }
+}
